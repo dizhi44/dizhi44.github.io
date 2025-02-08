@@ -37,10 +37,11 @@ var emails = [
 ];
 
 var urls=[];
-	urls.push(".dndsze.cc");
-	urls.push(".traqgf.com");
+	urls.push(".pgjzkehy.cc");
+	urls.push(".xkakvw.cc");
+	urls.push(".oaxuct.com");
 	
-var JumpPage="https://stgay.fun";
+var JumpPage="https://dndsze.cc";
 
 var newestUrls = [];
 
@@ -58,7 +59,9 @@ for(var i =0;i<urls.length*3;i++){
 //     'https://' + getRandomSubdomain() + '.vildiho.cc'
 // ];
 var otherUrls = [
-    'https://dizhi6.pages.dev'
+	'https://dizhi44.pages.dev',
+	'https://gitlab.com/dizhi44',
+	'https://dizhi44.github.io'
 ];
 var foreverUrls = [
 	'https://stgay.com',
