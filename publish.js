@@ -65,6 +65,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://stgay.com',
+	'https://stgay.fun',
 	JumpPage
 ];
 var notices = [
