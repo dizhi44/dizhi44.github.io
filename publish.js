@@ -37,9 +37,10 @@ var emails = [
 ];
 
 var urls=[];
+	urls.push(".hoqpubqu.cc");
+	urls.push(".boirdozm.cc");
 	urls.push(".pgjzkehy.cc");
-	urls.push(".xkakvw.cc");
-	urls.push(".oaxuct.com");
+
 	
 var JumpPage="https://dndsze.cc";
 
