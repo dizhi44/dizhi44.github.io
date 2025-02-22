@@ -37,13 +37,14 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".aphuzbe.xyz");
         urls.push(".tcuwpcyu.cc");
 	urls.push(".hoqpubqu.cc");
-	urls.push(".boirdozm.cc");
+	
 	
 
 	
-var JumpPage="https://stwgay.com";
+var JumpPage="https://stgays.com";
 
 var newestUrls = [];
 
