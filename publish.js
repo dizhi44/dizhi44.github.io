@@ -37,13 +37,10 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".tajbhcvk.xyz");
         urls.push(".ketygcj.xyz");
         urls.push(".aphuzbe.xyz");
-        urls.push(".tcuwpcyu.cc");
-	
-	
-	
-
+    
 	
 var JumpPage="https://stgay.site";
 
