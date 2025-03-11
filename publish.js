@@ -43,7 +43,7 @@ var urls=[];
       
     
 	
-var JumpPage="https://stgay.site";
+var JumpPage="https://yahunvo.xyz";
 
 var newestUrls = [];
 
