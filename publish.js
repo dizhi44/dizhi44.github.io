@@ -39,9 +39,10 @@ var emails = [
 var urls=[];
         urls.push(".twwsmun.xyz");   
         urls.push(".ymaaiuu.xyz");  
-        urls.push(".tbqcimsm.xyz");         
-                                            	
-var JumpPage="uuldpacm.xyz";
+        urls.push(".tbqcimsm.xyz");    
+        
+                     	
+var JumpPage="https://uuldpacm.xyz";
 
 var newestUrls = [];
 
