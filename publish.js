@@ -37,9 +37,10 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".xcaeinv.xyz");   
         urls.push(".nurcprt.xyz"); 
         urls.push(".srybygd.xyz"); 
-        urls.push(".twwsmun.xyz");   
+          
         
        
                      	
