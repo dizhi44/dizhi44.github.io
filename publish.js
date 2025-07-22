@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".jbwgoaie.org");   
-        urls.push(".eiaepmqa.cc");  
-        urls.push(".jnrntcd.top");    
+        urls.push(".rbgbmgqz.cc");   
+        urls.push(".jbwgoaie.org");  
+        urls.push(".eiaepmqa.cc");    
         
                      	
-var JumpPage="https://jcsutgat.top";
+var JumpPage="https://otpxxquh.club";
 
 var newestUrls = [];
 
