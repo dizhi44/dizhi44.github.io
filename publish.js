@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".isklmteb.top");   
-        urls.push(".rbgbmgqz.cc");  
-        urls.push(".jbwgoaie.org");    
+        urls.push(".bwstupgm.biz");   
+        urls.push(".isklmteb.top");  
+        urls.push(".rbgbmgqz.cc");    
         
                      	
 var JumpPage="https://rhhdhmw.space";
@@ -161,3 +161,4 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
