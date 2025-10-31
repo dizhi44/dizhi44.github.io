@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".njzjfpo.cc");   
-        urls.push(".rviqkzob.c");  
-        urls.push(".rkllwrv.cc");    
+        urls.push(".tylwuso.xyz");   
+        urls.push(".njzjfpo.cc");  
+        urls.push(".rviqkzob.cc");    
         
                      	
-var JumpPage="https://nkzofpc.cc";
+var JumpPage="https://tvtqyuz.com";
 
 var newestUrls = [];
 
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
