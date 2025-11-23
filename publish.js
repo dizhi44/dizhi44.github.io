@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".srxzzpye.cc");   
-        urls.push(".hfjkzxan.xyz");  
-        urls.push(".yinyduv.com");    
+        urls.push(".qdbvhtk.cc");   
+        urls.push(".srxzzpye.cc");  
+        urls.push(".qdbvhtk.cc");    
         
                      	
 var JumpPage="https://udllpmh.xyz";
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
