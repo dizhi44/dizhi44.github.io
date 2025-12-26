@@ -66,7 +66,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://stgay.com',
-	'https://stgay.fun',
+	
 	JumpPage
 ];
 var notices = [
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
