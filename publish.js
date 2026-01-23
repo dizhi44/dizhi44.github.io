@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".enivtqe.xyz");   
-        urls.push(".cowhpkvd.cc");  
-        urls.push(".jcgxaxf.com");    
+        urls.push(".ueygovug.xyz");   
+        urls.push(".enivtqe.xyz");  
+        urls.push(".cowhpkvd.cc");    
         
                      	
-var JumpPage="https://soutong1.com";
+var JumpPage="https://soutong2.com";
 
 var newestUrls = [];
 
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
