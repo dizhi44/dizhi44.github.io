@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[];
         urls.push(".kvqqyxeq.cc");   
-        urls.push(".wxgvldwf.xyz");  
-        urls.push(".ueygovug.xyz");    
+        urls.push(".gggtlmbx.xyz");  
+        urls.push(".wxgvldwf.xyz");    
         
                      	
 var JumpPage="https://soutong4.com";
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
