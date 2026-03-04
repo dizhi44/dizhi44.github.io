@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".ubfbsnh.com");   
-        urls.push(".qouuyvg.xyz");  
-        urls.push(".vwbexnhu.cc");    
+        urls.push(".zuohemtr.xyz");   
+        urls.push(".ubfbsnh.com");  
+        urls.push(".qouuyvg.xyz");    
         
                      	
 var JumpPage="https://soutong7.com";
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
