@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".zuohemtr.xyz");   
-        urls.push(".ubfbsnh.com");  
-        urls.push(".qouuyvg.xyz");    
+        urls.push(".aprufth.cc");   
+        urls.push(".zuohemtr.xyz");  
+        urls.push(".ubfbsnh.com");    
         
                      	
-var JumpPage="https://soutong7.com";
+var JumpPage="https://soutong8.com";
 
 var newestUrls = [];
 
@@ -161,6 +161,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
