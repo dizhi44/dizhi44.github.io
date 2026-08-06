@@ -65,8 +65,8 @@ var otherUrls = [
 	'https://dizhi44.github.io'
 ];
 var foreverUrls = [
+	'https://52soutong.com',
 	'https://stgay.com',
-	
 	JumpPage
 ];
 var notices = [
