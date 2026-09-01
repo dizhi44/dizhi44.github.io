@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".assjurrzc.cc");   
-        urls.push(".zpfonwzc.cc");  
-        urls.push(".bzssclmu.cc");    
+        urls.push(".zxvivqnz.cc");   
+        urls.push(".assjurrzc.cc");  
+        urls.push(".zpfonwzc.cc");    
         
                      	
 var JumpPage="https://soutong25.com";
