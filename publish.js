@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".assjurrzc.cc");    
         
                      	
-var JumpPage="https://soutong25.com";
+var JumpPage="https://soutong26.com";
 
 var newestUrls = [];
 
