@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".tpkgmycls.cc");   
-        urls.push(".kvarpnbjt.cc");  
-        urls.push(".vccrgrge.cc");    
+        urls.push(".bjrajakws.cc");   
+        urls.push(".tpkgmycls.cc");  
+        urls.push(".kvarpnbjt.cc");    
         
                      	
-var JumpPage="https://soutong31.com";
+var JumpPage="https://soutong32.com";
 
 var newestUrls = [];
 
