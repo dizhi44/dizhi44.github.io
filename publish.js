@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".mtosbohtz.cc");    
         
                      	
-var JumpPage="https://soutong33.com";
+var JumpPage="https://soutong34.com";
 
 var newestUrls = [];
 
