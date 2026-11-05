@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".ib34dzzbf.cc");    
         
                      	
-var JumpPage="https://soutong39.com";
+var JumpPage="https://soutong40.com";
 
 var newestUrls = [];
 
