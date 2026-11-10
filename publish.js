@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".dvguraqzv.cc");    
         
                      	
-var JumpPage="https://soutong40.com";
+var JumpPage="https://soutong41.com";
 
 var newestUrls = [];
 
