@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".xbsxdcsy.cc");   
-        urls.push(".nolkhkzm.cc");  
-        urls.push(".hdhtnalqn.cc");    
+        urls.push(".vixeejnf.cc");   
+        urls.push(".xbsxdcsy.cc");  
+        urls.push(".nolkhkzm.cc");    
         
                      	
 var JumpPage="https://soutong41.com";
