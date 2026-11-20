@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-        urls.push(".rnvajkxs.cc");   
-        urls.push(".vixeejnf.cc");  
-        urls.push(".xbsxdcsy.cc");    
+        urls.push(".qdlzqxhs.cc");   
+        urls.push(".rnvajkxs.cc");  
+        urls.push(".vixeejnf.cc");    
         
                      	
 var JumpPage="https://soutong42.com";
