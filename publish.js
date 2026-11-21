@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".vixeejnf.cc");    
         
                      	
-var JumpPage="https://soutong42.com";
+var JumpPage="https://soutong43.com";
 
 var newestUrls = [];
 
